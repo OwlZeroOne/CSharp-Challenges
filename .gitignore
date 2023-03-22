@@ -5,6 +5,7 @@ Challenges.csproj
 # ignore folders
 bin
 obj
+.vscode
 
 # ignore unpublishible code
 Exercism/Bob.cs 
