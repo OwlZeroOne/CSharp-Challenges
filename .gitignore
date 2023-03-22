@@ -8,5 +8,4 @@ obj
 .vscode
 
 # ignore unpublishible code
-Exercism/Bob.cs 
-Exercism/LogAnalysis.cs
+Exercism/Bob.cs
