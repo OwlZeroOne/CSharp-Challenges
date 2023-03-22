@@ -1,0 +1,11 @@
+# ignore files
+Program.cs
+Challenges.csproj
+
+# ignore folders
+bin
+obj
+
+# ignore unpublishible code
+Exercism/Bob.cs 
+Exercism/LogAnalysis.cs
