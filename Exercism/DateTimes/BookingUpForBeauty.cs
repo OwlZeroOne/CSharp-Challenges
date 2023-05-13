@@ -11,7 +11,7 @@ using System.Text;
     
     The tests will automatically set the culture to en-US - you don't have to set or specify the culture yourselves.
 */
-static class Appointment
+static class Appointment1
 {
     private static int day, month, year, hour, minute, second;
 
